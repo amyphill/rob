@@ -1,0 +1,11 @@
+﻿ClientID,DOB,Gender,Ethnicity,Highest Education Level,Occupation,Location,State,Support Level,Healthcare,Healthcare Provider,Allowed Cost of Services per Day
+1,01/27/2011,Male,Hmong,High School Diploma,Chef,Aspen,CO,Tier 4,No,Blue Cross Blue Shield,285.12
+2,12/21/2002,Male,Pima,Associate's Degree,Dockworker,Colorado Springs,CO,Tier 1,Yes,Kaiser,106
+3,11/02/2018,Male,Native Hawaiian,Associate's Degree,Cashier,Fort Collins,CO,Tier 1,Yes,Blue Cross Blue Shield,476.4
+4,04/04/2023,Male,Sri Lankan,Bachelor's Degree,Chef,Fort Collins,CO,Tier 4,No,Kaiser,212.55
+5,05/19/2000,Female,Cuban,Bachelor's Degree,Chef,Colorado Springs,CO,Tier 5,Yes,Aetna,153.86
+6,06/13/2021,Male,Alaskan Athabascan,Associate's Degree,Landscape Services,Boulder,CO,Tier 1,Yes,Blue Cross Blue Shield,224.79
+7,10/25/1999,Genderfluid,Puget Sound Salish,Associate's Degree,HouseKeeping Attendant,Denver,CO,Tier 3,No,Blue Cross Blue Shield,449.37
+8,07/19/2005,Male,Tongan,Associate's Degree,Dockworker,Aspen,CO,Tier 3,Yes,Cigna,433
+9,08/17/2008,Female,Shoshone,Associate's Degree,Grocery Store Bagger,Aspen,CO,Tier 2,Yes,Blue Cross Blue Shield,187.99
+10,09/27/2017,Female,Shoshone,Associate's Degree,Kitchen Helper,Aspen,CO,Tier 2,No,Blue Cross Blue Shield,185.47
